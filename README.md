@@ -1,2 +1,3 @@
 # poll
-RBAC без MVC
+Опрос и RBAC
+сервер Apache смотрит в public_html
